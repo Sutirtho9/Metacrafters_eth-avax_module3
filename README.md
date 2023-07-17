@@ -1,4 +1,4 @@
-# MyToken
+# Types of Function
 
 This Solidity program is a token contract that implements the ERC20 standard. It allows the creation, transfer, and burning of tokens. The purpose of this contract is to serve as a template for creating custom tokens on the Ethereum blockchain.
 
